@@ -5,16 +5,16 @@ tagline: CheckMK server in Umbrel - All included
 icon: https://checkmk.com/application/files/cache/thumbnails/ab8b49262039ee7dc627c6483b85849e.png
 category: Development
 version: "1.0.0"
-port: 4321
+port: 5000
 description: >-
   Monitor your home and internet services
 
 developer: Qalasiaq
 website: https://ingemann.gl
 submitter: Ilasiaq
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+submission: https://github.com/ilasiaq88/umbrel-checkmk
+repo: https://github.com/ilasiaq88/umbrel-checkmk
+support: https://github.com/ilasiaq88/umbrel-checkmk/issues
 gallery:
   - https://checkmk.com/application/files/9916/1787/8136/main-dashboard-s.jpg
   - https://checkmk.com/application/files/6616/1787/7451/metrics-cpu-load-hover-s.jpg

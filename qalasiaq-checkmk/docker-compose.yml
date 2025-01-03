@@ -16,4 +16,4 @@ services:
       - /opt/omd/sites/cmk/tmp:uid=1000,gid=1000
     restart: always
     ports:
-      - 5000:5000
+      - 4322:5000

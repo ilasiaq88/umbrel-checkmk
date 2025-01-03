@@ -1,0 +1,30 @@
+manifestVersion: 1
+id: qalasiaq-checkmk
+name: CheckMK
+tagline: CheckMK server in Umbrel - All included
+icon: https://checkmk.com/application/files/cache/thumbnails/ab8b49262039ee7dc627c6483b85849e.png
+category: Development
+version: "1.0.0"
+port: 4321
+description: >-
+  Monitor your home and internet services
+
+developer: Qalasiaq
+website: https://ingemann.gl
+submitter: Ilasiaq
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+  - https://checkmk.com/application/files/9916/1787/8136/main-dashboard-s.jpg
+  - https://checkmk.com/application/files/6616/1787/7451/metrics-cpu-load-hover-s.jpg
+  - https://checkmk.com/application/files/3316/1787/5559/infrastructure-monitoring-s.jpg
+  - https://checkmk.com/application/files/8316/1787/6331/event-console-s.jpg
+  - https://checkmk.com/application/files/7616/1840/9530/availability-reporting-s.jpg
+  - https://checkmk.com/application/files/5216/1840/9514/notifications-alerts-s.jpg
+releaseNotes: >-
+  This is my first setup
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

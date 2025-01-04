@@ -27,4 +27,4 @@ releaseNotes: >-
 dependencies: []
 path: ""
 defaultUsername: "cmkadmin"
-defaultPassword: ""
+defaultPassword: "cmkadmin"

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Angiv dit site navn og den nye adgangskode
+SITE_NAME="cmk"
+NEW_PASSWORD="cmkadmin"
+
+# Skift adgangskoden for cmkadmin
+htpasswd -b /omd/sites/$SITE_NAME/etc/htpasswd cmkadmin $NEW_PASSWORD
+
+# Genstart Checkmk site for at anvende ændringerne
+omd restart $SITE_NAME
